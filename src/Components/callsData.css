@@ -1,0 +1,44 @@
+.heading{
+    text-align: center;
+    background-color:antiquewhite;
+    padding: 10px 0px;
+}
+.icon{
+    width: 15px !important;
+    cursor: pointer !important;
+    margin-right: 10px !important;
+}
+.CallPaginator {
+    margin-top: 10px;
+    float: right;
+}
+.linkClass{
+    background-color: #0c5640;
+    border-radius: 5px;
+    padding: 7px;
+    margin: 5px;
+    color: #fff;
+}
+.active .linkClass{
+    color: blue;
+}
+.modalBodyColor{
+    background-color:beige;
+}
+.modalEndsColor{
+    background-color: antiquewhite;
+    height: '200px';
+    overflow-y: 'auto';
+}
+.tableHead{
+    background-color: beige;
+}
+.tableRow{
+    background-color: gainsboro;
+}
+.addNotes{
+    margin-top: 10px;
+}
+input[type="submit"] {
+    margin: 0px !important;
+   }
